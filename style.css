@@ -1,0 +1,141 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    color: aliceblue;
+}
+#mike{
+    font-size: 2em;
+    color: cornflowerblue;
+    text-decoration: cornflowerblue wavy underline;
+}
+
+ul{
+    backdrop-filter: blur(20px);
+    /* background-color: #000000; */
+}
+
+input, button{
+    padding: 1em;
+    border: 1px solid black;
+    /* font-family: 'Poppins', sans-serif; */
+    
+    /* font-weight: bolder; */
+}
+input{
+    width: 20%;
+}
+
+button{
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+    background: none;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-size: medium;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+li{
+    display: inline-block;
+    list-style: none;
+    padding-right: 1.5em;
+    right: 0;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-weight: bolder;
+}
+
+
+
+.body-div, footer{
+    padding: 2em;
+
+}
+
+footer{
+    /* background-color: #f5f5f5; */
+    /* background-color: #970505; */
+    backdrop-filter: blur(10px);
+    position: fixed;
+    bottom: 0;
+    width: 15%;
+    right: 0;
+}
+
+#icons{
+    position: absolute;
+    right: 0;
+    bottom: 1em;
+}
+
+.main-home{
+    max-width: 950px;
+    margin: 3em auto;
+    padding: 2rem 0;
+}
+
+.main-blogs {
+    max-width: 800px;
+    margin: 3em auto;
+    padding: 2rem;
+  }
+  
+  .post {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  #post-title, #post-subtitle{
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+#post-title{
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    padding: 20px 0;
+    font-size: 4em;
+}
+
+#post-subtitle{
+    /* border-top: 1px solid white; */
+    border-bottom: 1px solid white;
+    margin-top: -30px;
+    padding-bottom: 20px;
+}
+
+#post-image img, img {
+    max-width: 100%; /* Images won't exceed the container's width */
+    height: auto;   /* Maintain aspect ratio */
+  }
+
+  #post-body{
+    line-height: 2;
+}
+
+/* Style for the "Read More" button */
+.post button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  /* Style for truncated content */
+  .post p.truncated {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: wheat;
+  }
+ 
+  
+  
+  
+  
