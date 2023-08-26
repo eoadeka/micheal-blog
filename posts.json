@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "image": "images/gain.jpg",
+    "title": "The Power of Faith",
+    "subtitle": "Walking with Unwavering Conviction",
+    "body": "Faith is the foundation of a godly life. It's the unwavering belief in the divine plan and the strength to walk through life's challenges with hope and courage."
+  },
+  {
+    "id": "2",
+    "image": "images/monolita.jpg",
+    "title": "The Blessings of Gratitude",
+    "subtitle": "A Heart Full of Thanks",
+    "body": "Being grateful is a way of acknowledging the divine blessings in our lives. When we express gratitude, we open our hearts to receive more of God's grace and abundance."
+  },
+  {
+    "id": "3",
+    "image": "images/thuru.jpg",
+    "title": "Finding Peace in Prayer",
+    "subtitle": "Connecting with the Divine",
+    "body": "Prayer is a direct line of communication with the divine. It's a way to seek guidance, find solace, and experience the profound peace that comes from connecting with God."
+  },
+  {
+    "id": "4",
+    "image": "images/venus+.jpg",
+    "title": "Walking in Love",
+    "subtitle": "Embracing the Divine Essence",
+    "body": "Love is the essence of godliness. When we choose love in our thoughts, words, and actions, we align ourselves with the divine nature and radiate light to the world."
+  }
+]
